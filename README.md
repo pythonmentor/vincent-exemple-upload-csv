@@ -2,8 +2,6 @@
 
 [![Vidéo](https://i.gyazo.com/7f0ee4b28da35bb748a517cd3a1176bc.png)](https://www.youtube.com/watch?v=mycMVp-ggTE)
 
-https://www.youtube.com/embed/mycMVp-ggTE
-
 Ce projet est une démonstration pour montrer une manière de faire possible pour uploader un fichier
 CSV et laisser à l'utilisateur le soin de sélectionner les colonnes du fichier à afficher.
 
