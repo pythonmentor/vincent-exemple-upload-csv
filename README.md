@@ -4,6 +4,8 @@
  <img src="http://img.youtube.com/vi/nTQUwghvy5Q/default.jpg" alt="Watch the video" width="480" border="10" />
 </a>
 
+https://youtube.com/embed/nTQUwghvy5Q
+
 Ce projet est une démonstration pour montrer une manière de faire possible pour uploader un fichier
 CSV et laisser à l'utilisateur le soin de sélectionner les colonnes du fichier à afficher.
 
