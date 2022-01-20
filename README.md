@@ -1,5 +1,7 @@
 # Démo pour Vincent: upload de données et choix des colonnes à afficher
 
+<object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/mycMVp-ggTE&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="https://www.youtube.com/v/mycMVp-ggTE&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+
 Ce projet est une démonstration pour montrer une manière de faire possible pour uploader un fichier
 CSV et laisser à l'utilisateur le soin de sélectionner les colonnes du fichier à afficher.
 
