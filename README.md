@@ -1,7 +1,7 @@
 # Démo pour Vincent: upload de données et choix des colonnes à afficher
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/default.jpg" alt="Watch the video" width="480" border="10" />
 </a>
 
 Ce projet est une démonstration pour montrer une manière de faire possible pour uploader un fichier
