@@ -1,6 +1,6 @@
 # Démo pour Vincent: upload de données et choix des colonnes à afficher
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mycMVp-ggTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=mycMVp-ggTE
 
 Ce projet est une démonstration pour montrer une manière de faire possible pour uploader un fichier
 CSV et laisser à l'utilisateur le soin de sélectionner les colonnes du fichier à afficher.
