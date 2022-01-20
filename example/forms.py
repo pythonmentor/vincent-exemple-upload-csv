@@ -39,5 +39,4 @@ class SecondForm(forms.Form):
 
     def clean(self):
         super().clean()
-        print(self.cleaned_data['columns'])
         self.request.session['selection'] = self.cleaned_data['columns']
