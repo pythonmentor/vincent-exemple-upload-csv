@@ -1,5 +1,7 @@
 # Démo pour Vincent: upload de données et choix des colonnes à afficher
 
+[![Vidéo](https://i.gyazo.com/7f0ee4b28da35bb748a517cd3a1176bc.png)](https://www.youtube.com/watch?v=mycMVp-ggTE)
+
 https://www.youtube.com/embed/mycMVp-ggTE
 
 Ce projet est une démonstration pour montrer une manière de faire possible pour uploader un fichier
