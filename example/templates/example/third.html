@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Données uploadées</h1>
+<p>Les données mises en ligne à l'aide du fichier sont les suivantes:</p>
+<table>
+    <thead>
+        <tr>
+            {% for name in uploaded.names %}
+                {% if forloop.counter in selection %}
+                    <td><strong>{{ name }}</strong></td>
+                {% endif %}
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in uploaded.data %}
+            <tr>
+                {% for column in row %}
+                    {% if forloop.counter in selection %}
+                        <td>{{ column }}</td>
+                    {% endif %}
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock content %}
